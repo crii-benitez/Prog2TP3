@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prog2TP3</string>
+    <string name="titulo_App">Bienvenido a Parking System</string>
+    <string name="msj_Inicio">Inicia sesión para empezar</string>
+    <string name="lbl_User">Nombre de usuario</string>
+    <string name="txt_Btn_Iniciar">Iniciar Sesión</string>
+    <string name="lbl_Password">Contraseña</string>
+    <string name="txt_Logo_desc">Imagen de estacionamiento. Logo del App</string>
+    <string name="menu_parking">Parking</string>
+    <string name="menu_mi_cuenta">Mi Cuenta</string>
+</resources>
