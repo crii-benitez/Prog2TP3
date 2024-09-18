@@ -8,4 +8,11 @@
     <string name="txt_Logo_desc">Imagen de estacionamiento. Logo del App</string>
     <string name="menu_parking">Parking</string>
     <string name="menu_mi_cuenta">Mi Cuenta</string>
+    <string name="registro_usuario">Registro Usuario</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="pass">Contraseña</string>
+    <string name="repetir_pass">Repetir contraseña</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="atras">Atras</string>
 </resources>
